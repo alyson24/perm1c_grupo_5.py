@@ -8,3 +8,8 @@ En el link anterior se encuentra un diccionario donde las claves son los urls de
 Al iniciar el programa se le mostrará un ranking de páginas web después se mostrará dos rankings de links salientes y entrantes 
 
 También imprime un ranking de las páginas de acuerdo a mayor valor obtenido en rank = e/s+1 Donde e es la cantidad de los enlaces entrantes y s la cantidad de los enlaces destacado 
+Integrantes:
+-Alyson Perez Flores
+-Yorlenny Valdivia
+-Gabrielle Ore Cardenas
+-Franco Zegarra 
